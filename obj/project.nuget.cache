@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6cxCZ4HIWmfTVU/4l1LUobFv/j8buflpi4uuo40VRlQlraKoe98TNEWdAAz2193gZpE+NOH0/DuEZpQnGbGMqw==",
+  "dgSpecHash": "qGp69tiPpSBarkE6VjpOVzSrqnwE9AUJpk1mrL2bRWYxdUNOtziRwjqfhRWL63W3EZnfdozq6C5JOwjkb9aYtg==",
   "success": true,
-  "projectFilePath": "C:\\WRK\\RFID\\SOFT-tools-and-resources\\C#Console\\C#UDP.Sample01\\CS.UDP.Sample01.csproj",
+  "projectFilePath": "C:\\WRK\\RFID\\SOFT-tools-and-resources\\C#Console\\UDP.Coordinates.Feeder\\CS.UDP.Sample01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

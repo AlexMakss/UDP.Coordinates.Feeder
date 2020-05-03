@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WRK\\RFID\\SOFT-tools-and-resources\\C#Console\\C#UDP.Sample01\\CS.UDP.Sample01.csproj",
+      "projectUniqueName": "C:\\WRK\\RFID\\SOFT-tools-and-resources\\C#Console\\UDP.Coordinates.Feeder\\CS.UDP.Sample01.csproj",
       "projectName": "CS.UDP.Sample01",
-      "projectPath": "C:\\WRK\\RFID\\SOFT-tools-and-resources\\C#Console\\C#UDP.Sample01\\CS.UDP.Sample01.csproj",
+      "projectPath": "C:\\WRK\\RFID\\SOFT-tools-and-resources\\C#Console\\UDP.Coordinates.Feeder\\CS.UDP.Sample01.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\WRK\\RFID\\SOFT-tools-and-resources\\C#Console\\C#UDP.Sample01\\obj\\",
+      "outputPath": "C:\\WRK\\RFID\\SOFT-tools-and-resources\\C#Console\\UDP.Coordinates.Feeder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
